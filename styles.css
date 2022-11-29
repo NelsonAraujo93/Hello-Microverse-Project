@@ -1,0 +1,9 @@
+h1 {
+  color: #921010;
+  text-shadow: 9px 3px 7px #0000004f;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
